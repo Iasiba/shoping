@@ -1,0 +1,89 @@
+00:09:16	Leonardo Penagos:	profe y siempre vamos a tomar como ejemplo los portafolios de ejemplo en las chichetas
+00:09:50	Juan Velez:	Jure que hoy era viernes
+00:10:05	Leonardo Penagos:	no
+00:10:06	nicolas gonzalo lopez:	no profe
+00:10:07	Sebastian Sanchez Ramirez:	Uno nuevo no profe
+00:10:08	steven Bula Conde:	no
+00:10:09	Juan Velez:	Aun no
+00:10:11	Leonardo Javier Temporal Marquez:	Aun no profe
+00:10:11	nicolas gonzalo lopez:	yo personalmente
+00:10:15	nicolas gonzalo lopez:	cree un grupo aparte
+00:10:29	Junior Fabian Pacheco Moyano:	Yo también pensé, pero igual hice mi comentario
+00:10:39	Leonardo Javier Temporal Marquez:	Estaría bien quedarnos con los que hicimos apenas
+00:10:53	nicolas gonzalo lopez:	perfecto muchachos
+00:11:19	nicolas gonzalo lopez:	buenísimo
+00:11:24	nicolas gonzalo lopez:	hiper didactico
+00:11:25	Juan Velez:	Se escucha bueno
+00:11:58	Jesús Fernández:	https://www.netlify.com/
+00:12:35	Juan Velez:	Es muy complicado el deploy con GitHub?
+00:13:00	Luis Franco:	Jjaja la acabe de crear
+00:13:07	Junior Fabian Pacheco Moyano:	El sonido
+00:13:12	Junior Fabian Pacheco Moyano:	Bajo no?
+00:18:07	Albert Urbina:	Netlify es gratis siempre o solo por un tiempo?
+00:20:12	Jesús Fernández:	https://insta-clone-academlo.netlify.app/
+00:20:32	Leonardo Penagos:	y cuanto trafico admite y eso?
+00:20:44	Leonardo Penagos:	osea ancho de banda y eso
+00:20:46	Junior Fabian Pacheco Moyano:	Dejenos ver su portafolio
+00:20:47	Junior Fabian Pacheco Moyano:	Profesor
+00:20:58	Miguel Vera:	subir un proyecto con dominio como sería profesor?
+00:21:37	Leonardo Penagos:	profe puede agrandar la ventan
+00:21:40	Leonardo Penagos:	no se ve bien
+00:22:08	Sebastian Sanchez Ramirez:	Profe, la página aparece sin CSS
+00:22:13	Sebastian Sanchez Ramirez:	Cuando la subo a netlify
+00:24:59	Junior Fabian Pacheco Moyano:	JAJAJAA
+00:25:33	Jesús Fernández:	https://chatbot-jsfdz.netlify.app/
+00:25:37	jesus vergara:	que sad
+00:25:39	nicolas gonzalo lopez:	si quiere profe podemos hablar
+00:25:42	nicolas gonzalo lopez:	no le cobro
+00:25:44	nicolas gonzalo lopez:	jajajajajaj
+00:25:44	Paulina Flores:	ja ja ja ja me encanta ♥
+00:25:45	DANIEL JIMENEZ:	😪
+00:26:05	Jorge Andres Castillo Salazar:	Profe 🥲
+00:26:11	Eddie Nava:	Saludos profe, en el caso de subir una pagina a un hosting pago, el proceso como seria?
+00:26:53	Miguel Vera:	yo use un tiempo aws
+00:29:33	Sebastian Sanchez Ramirez:	Profe, no me salen los estilos cuando subo el repo a netlify
+00:29:42	Sebastian Sanchez Ramirez:	Puede ayudarme
+00:30:00	Junior Fabian Pacheco Moyano:	Los sitios en Netlify no tienen SEO?
+00:30:07	Sebastian Sanchez Ramirez:	No señor
+00:30:35	Leonardo Penagos:	por que
+00:30:37	Junior Fabian Pacheco Moyano:	Aaaaa vale profesor
+00:30:37	Leonardo Penagos:	?
+00:30:45	Carlos Daniel Sánchez:	puede explicar que es CEO?jaja no entenid
+00:31:03	Junior Fabian Pacheco Moyano:	Search Engine y la O no recuerdo
+00:31:04	Junior Fabian Pacheco Moyano:	Jaja
+00:31:09	Leonardo Penagos:	CEO  es el posicionamiento para que los usuarios te encuentren tu pagina
+00:31:11	Juan Pablo Clavijo:	Optimization
+00:31:25	Joaquin Marcelo Martinez Ibañez:	profe esta muy gracioso su  bot chat no responde cosas q quieres saber del bot pero algunas cosas absurdas si responde pero de manera graciosa
+00:31:28	Junior Fabian Pacheco Moyano:	SEO significa Search Engine Optimization
+00:31:55	Luis Humberto Arteaga Mosquera:	jajaja pensé en CEO
+00:32:23	Luis Humberto Arteaga Mosquera:	dije, quien será el dueño jajajaja
+00:33:02	YEIZER ENRIQUE MARRUGO VELASQUEZ:	SIi, el chat esta bueno jajajajjajaja.
+00:33:17	YEIZER ENRIQUE MARRUGO VELASQUEZ:	Yo quiero, como lo hizo? Jajajaja
+00:33:34	Joaquin Marcelo Martinez Ibañez:	le pregunte puras tonteras y responde muy graciosamente
+00:33:38	Joaquin Marcelo Martinez Ibañez:	q interesante
+00:33:46	Leonardo Penagos:	profe pero estoy confundido por que si usa JS por que seria estatico??
+00:34:05	Junior Fabian Pacheco Moyano:	Solo juega con los archivos internos
+00:34:08	Junior Fabian Pacheco Moyano:	No sale de eso
+00:37:52	Miguel Vera:	Pero los portafolios necesitan SEO en el caso de ser freelancer cierto?
+00:39:16	Leonardo Penagos:	Pero si es una pagina para que compren mi producto react no serviria mucho?
+00:41:08	Juan Velez:	subio toda la carpeta de semana 5?
+00:41:59	Leonardo Penagos:	hay tocaria volver a  hacer git ini??
+00:43:00	Leonardo Penagos:	cuando pasa eso solamente es volver hacer git commit?
+00:44:09	Leonardo Penagos:	yo no
+00:44:24	jesus vergara:	ya lo subimos
+00:44:28	Luis Humberto Arteaga Mosquera:	Yo solo tengo el NavBar
+00:44:33	Leonardo Javier Temporal Marquez:	Ya lo estoy subiendo profe
+00:44:43	Luis Humberto Arteaga Mosquera:	ok profe
+00:44:44	nicolas gonzalo lopez:	okey
+00:45:05	Juan Velez:	profe, y a donde subimos el Instagram?
+00:45:44	Leonardo Penagos:	profe yo quiero subirlo me  guia??
+00:46:58	Alvaro Japa Salazar:	sip
+00:46:59	Paulina Flores:	si
+00:47:00	Alvaro Japa Salazar:	6
+00:47:29	Jesús Fernández:	https://docs.google.com/spreadsheets/d/1TeaKMdhdKrv6IsJyiTIGX1ZeXCPVp81_BjluLY3mAEk/edit#gid=0
+00:52:29	Brandon Martinez Arroyo:	A cual?
+00:54:03	Santiago Jiménez:	profe hola
+00:54:13	Santiago Jiménez:	7
+00:55:19	adler sejousnat:	sii profe estoy en 4
+00:55:25	adler sejousnat:	en el 4
+00:56:23	Santiago Jiménez:	panas, y q hay q hacer?? sino q apenas me conecte en forma, me tocó hacer algo urgente
